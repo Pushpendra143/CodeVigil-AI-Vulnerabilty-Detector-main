@@ -229,4 +229,4 @@ CodeVigil/
 
 MIT
 
-Built by **Pushpendra Thakkar** · PDEU B.Tech CSE 2027
+Built by **Pushpendra Thakkar** · Ganpat University B.Tech CSE 2027
